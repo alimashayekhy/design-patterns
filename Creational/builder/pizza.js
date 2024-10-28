@@ -1,4 +1,3 @@
-// Product class
 class Pizza {
   constructor() {
     this.size = '';
